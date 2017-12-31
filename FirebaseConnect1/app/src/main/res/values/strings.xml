@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirebaseConnect</string>
+    <string name="slogan">Firebase Example</string>
+</resources>
